@@ -6,7 +6,6 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently working on **full-stack healthcare systems** using `React.js`, `Tailwind CSS`, and `Django APIs`.
-- 🌱 I’m currently learning **Next.js**, **DevOps Basics**, and modern UI animation techniques.
 - 💬 Ask me about **React.js, Tailwind CSS, Django APIs, UI/UX design, or Figma.**
 - 🛠 I love building **clean, responsive** frontends and **robust** backends.
 
@@ -37,7 +36,6 @@
 | 🔭 | Currently Working On | AV Swasthya - Health ERP | _Coming Soon_ |
 | 🤝 | Looking to Collaborate On | Open-source UI tools for healthcare | _Let’s Connect_ |
 | 🙋‍♀️ | Need Help With | Django + AI integration | _Drop ideas!_ |
-| 🌱 | Currently Learning | Next.js, GraphQL, DevOps |  |
 | 💬 | Ask Me About | React.js, Tailwind, Django, UI/UX |  |
 
 ---
@@ -56,4 +54,3 @@
 ---
 
 > ✨ "I believe in writing code that's not just functional, but beautiful."
-
