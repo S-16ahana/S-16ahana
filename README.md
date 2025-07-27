@@ -1,35 +1,53 @@
-<h1 align="center">Hi 👋, I'm Sahana Kadrolli</h1>
+<h1 align="center">👋 Hi, I'm Sahana Kadrolli</h1>
 <p align="center"><strong>React.js Developer | Django API Engineer | UI/UX Enthusiast</strong></p>
 
 ---
 
-### 👩‍💻 About Me
+## 🧑‍💻 About Me
 
-- Frontend focused full-stack developer with hands-on experience in building scalable web applications.
-- Specialized in `React.js`, `Tailwind CSS`, and `Python Django` for backend API development.
-- Passionate about designing intuitive user interfaces with a focus on accessibility and performance.
-
----
-
-### 🧰 Tech Stack
-
-- **Frontend**: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
-- **Backend**: Python, Django (REST APIs)  
-- **Tools & Design**: Git, GitHub, Figma, UI/UX Principles  
+- Frontend-focused full-stack developer building responsive, scalable web apps.  
+- Skilled in `React.js`, `Tailwind CSS`, and `Python Django` for backend REST APIs.  
+- Passionate about clean code, intuitive design, and building useful products.
 
 ---
 
-### 📌 Projects & Interests
+## 🛠️ Tech Stack
 
-- **Currently building**: A health-tech ERP platform for patient & hospital management  
-- **Interests**: Frontend systems design, REST APIs, clean UI/UX, open source  
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Python, Django (REST APIs)</td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Design</strong></td>
+    <td>Git, GitHub, Figma, UI/UX Principles</td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Connect with Me
+## 📌 Projects & Focus
 
-- [LinkedIn](https://www.linkedin.com/in/sahana-kadrolli-990275272)  
-- 📧 sahanakadrolli2022@gmail.com
+- 🔨 Currently building a **Healthcare ERP System** with full-stack architecture  
+- 💡 Interested in **frontend systems design**, reusable components, and REST APIs  
+- 🎯 Focused on creating **accessible and clean UI/UX experiences**
+
+---
+
+## 📫 Get in Touch
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sahana-kadrolli-990275272" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sahanakadrolli2022@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
