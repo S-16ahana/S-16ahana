@@ -9,9 +9,9 @@
 
 ### 🚀 What I Do
 
-- 💻 Frontend Development with **React.js**, **Tailwind CSS**, and modern JS
-- 🧠 Backend APIs using **Python Django REST Framework**
-- 🎨 UI/UX design with **Figma** and real user empathy
+- 💻 Frontend Development with **React.js**, **Tailwind CSS**, and modern JS  
+- 🧠 Backend APIs using **Python Django REST Framework**  
+- 🎨 UI/UX design with **Figma** and real user empathy  
 - 🛠 Building full-stack web apps with performance & purpose
 
 ---
@@ -37,7 +37,7 @@
 ### 📬 Connect with Me
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin,gmail,github,figma" alt="social icons" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=linkedin,gmail,github" alt="social icons" /><br/><br/>
 
 - 💼 <strong>LinkedIn:</strong> [sahana-kadrolli-990275272](https://www.linkedin.com/in/sahana-kadrolli-990275272)  
 - 📩 <strong>Email:</strong> <a href="mailto:sahanakadrolli2022@gmail.com">sahanakadrolli2022@gmail.com</a>  
