@@ -43,8 +43,4 @@
 - <strong>Email:</strong> <a href="mailto:sahanakadrolli2022@gmail.com">sahanakadrolli2022@gmail.com</a>  
 </div>
 
----
 
-### Quote I Work By
-
-<p align="center"><em>"Design with purpose. Code with clarity. Deliver with impact."</em></p>
