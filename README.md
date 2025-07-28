@@ -28,9 +28,9 @@
 
 ###  Current Focus
 
-> Building a full-stack Healthcare ERP with a modular architecture  
-> Collaborating on clean, scalable open-source UI projects  
-> Improving accessibility, performance, and developer experience  
+- Building a full-stack Healthcare ERP with a modular architecture  
+- Collaborating on clean, scalable open-source UI projects  
+- Improving accessibility, performance, and developer experience  
 
 ---
 
