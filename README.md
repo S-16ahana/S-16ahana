@@ -7,16 +7,16 @@
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
-- 💻 Frontend Development with **React.js**, **Tailwind CSS**, and modern JS  
-- 🧠 Backend APIs using **Python Django REST Framework**  
-- 🎨 UI/UX design with **Figma** and real user empathy  
-- 🛠 Building full-stack web apps with performance & purpose
+- Frontend Development with **React.js**, **Tailwind CSS**, and modern JS  
+- Backend APIs using **Python Django REST Framework**  
+- UI/UX design with **Figma** and real user empathy  
+- Building full-stack web apps with performance & purpose
 
 ---
 
-### 🧰 Toolbox
+###  Toolbox
 
 | Frontend      | Backend         | Tools & Design         |
 | ------------- | --------------- | ---------------------- |
@@ -26,25 +26,25 @@
 
 ---
 
-### 📌 Current Focus
+###  Current Focus
 
-> 🔨 Building a full-stack Healthcare ERP with a modular architecture  
-> 🌍 Collaborating on clean, scalable open-source UI projects  
-> ✨ Improving accessibility, performance, and developer experience  
+> Building a full-stack Healthcare ERP with a modular architecture  
+> Collaborating on clean, scalable open-source UI projects  
+> Improving accessibility, performance, and developer experience  
 
 ---
 
-### 📬 Connect with Me
+###  Connect with Me
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linkedin,gmail,github" alt="social icons" /><br/><br/>
 
-- 💼 <strong>LinkedIn:</strong> [sahana-kadrolli-990275272](https://www.linkedin.com/in/sahana-kadrolli-990275272)  
-- 📩 <strong>Email:</strong> <a href="mailto:sahanakadrolli2022@gmail.com">sahanakadrolli2022@gmail.com</a>  
+- <strong>LinkedIn:</strong> [sahana-kadrolli-990275272](https://www.linkedin.com/in/sahana-kadrolli-990275272)  
+- <strong>Email:</strong> <a href="mailto:sahanakadrolli2022@gmail.com">sahanakadrolli2022@gmail.com</a>  
 </div>
 
 ---
 
-### 💡 Quote I Work By
+### Quote I Work By
 
 <p align="center"><em>"Design with purpose. Code with clarity. Deliver with impact."</em></p>
