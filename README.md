@@ -36,8 +36,8 @@
 
 ###  Connect with Me
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin,gmail,github" alt="social icons" /><br/><br/>
+<div align="left"> 
+ 
 
 - <strong>LinkedIn:</strong> [sahana-kadrolli-990275272](https://www.linkedin.com/in/sahana-kadrolli-990275272)  
 - <strong>Email:</strong> <a href="mailto:sahanakadrolli2022@gmail.com">sahanakadrolli2022@gmail.com</a>  
